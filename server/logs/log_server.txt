@@ -1,0 +1,12 @@
+21:47: 02 06 2021 Error name 'con' is not defined
+21:51: 02 06 2021 Error name 'con' is not defined
+21:53: 02 06 2021 Error name 'con' is not defined
+21:55: 02 06 2021 Error name 'con' is not defined
+21:56: 02 06 2021 Error name 'ab' is not defined
+21:58: 02 06 2021 Error unrecognized token: ""=2;
+                            "
+22:00: 02 06 2021 Error near ""=MAX("": syntax error
+22:05: 02 06 2021 Error unrecognized token: ""valuta
+                            "
+22:11: 02 06 2021 Error 'sqlite3.Connection' object has no attribute 'fetchone'
+22:12: 02 06 2021 Error 'sqlite3.Connection' object has no attribute 'fetchone'
